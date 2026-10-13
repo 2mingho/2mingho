@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development & Data Analysis<br>🌱 I’m currently learning about Full Stack Development<br>⚡ Fun fact: I like to test and implement local AI models and solutions
+🔭 Currently working on Web Development, Data Analysis and AI-Powered Solutions<br>🌱 Developing and Maintaining Teams Management Software<br>⚡ Fun fact: I like to automate my daily tasks
 
 
 ## 🌐 Socials:
