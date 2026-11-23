@@ -1,4 +1,4 @@
-<h1 align="center">Building software that runs the business — so teams don't have to</h1>
+<h1 align="center">Building software that runs the business, so teams don't have to</h1>
 
 <p align="center">
 Full-stack developer focused on <b>internal platforms, data & AI automation</b> for companies.<br>
@@ -51,3 +51,4 @@ I turn manual, repetitive operations into reliable systems: dashboards, reportin
   <img src="https://github-readme-stats.vercel.app/api?username=2mingho&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2mingho&layout=compact&hide_border=true&theme=transparent" height="150" />
 </p>
+
