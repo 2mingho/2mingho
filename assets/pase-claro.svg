@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" font-family="Barlow, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">2mingho</title><desc id="d">Full-stack developer. Internal platforms, data and AI automation for companies.</desc>
+<rect x="0.5" y="0.5" width="999" height="339" rx="12" fill="#ffffff" stroke="#d6d9de"/>
+<!-- muesca y perforación del pase -->
+<circle cx="712" cy="0" r="14" fill="#ffffff" stroke="#d6d9de"/><circle cx="712" cy="340" r="14" fill="#ffffff" stroke="#d6d9de"/>
+<line x1="712" y1="22" x2="712" y2="318" stroke="#b5bac1" stroke-dasharray="2 6"/>
+<!-- cuerpo -->
+<rect x="40" y="38" width="12" height="12" rx="3" fill="#fadf25"/>
+<text x="62" y="49" font-size="14" fill="#474d55" font-weight="500">2mingho · full-stack developer</text>
+<text x="40" y="110" font-size="40" fill="#0b0d10" font-weight="500" letter-spacing="-0.6">I build the internal tools</text>
+<text x="40" y="156" font-size="40" fill="#0b0d10" font-weight="500" letter-spacing="-0.6">companies run on.</text>
+<line x1="40" y1="196" x2="672" y2="196" stroke="#d6d9de"/>
+<text x="40" y="228" font-size="13" fill="#6b7178" font-weight="500">From</text><text x="40" y="252" font-size="17" fill="#0b0d10">spreadsheets, inboxes, manual reports</text>
+<text x="380" y="228" font-size="13" fill="#6b7178" font-weight="500">To</text><text x="380" y="252" font-size="17" fill="#0b0d10">systems that update themselves</text>
+<line x1="40" y1="276" x2="672" y2="276" stroke="#d6d9de"/>
+<text x="40" y="308" font-size="14" fill="#474d55">Internal platforms   ·   Data &amp; reporting   ·   AI automation   ·   Self-hosted tools</text>
+<!-- talón -->
+<text x="752" y="70" font-size="13" fill="#6b7178" font-weight="500">Working in</text><text x="752" y="94" font-size="17" fill="#0b0d10">English · Español</text>
+<text x="752" y="140" font-size="13" fill="#6b7178" font-weight="500">Time zone</text><text x="752" y="164" font-size="17" fill="#0b0d10">UTC−4</text>
+<text x="752" y="210" font-size="13" fill="#6b7178" font-weight="500">Status</text><text x="752" y="234" font-size="17" fill="#0b0d10">Taking on projects</text>
+<text x="752" y="302" font-size="13" fill="#6b7178" font-variant-numeric="tabular-nums">github.com/2mingho</text>
+</svg>

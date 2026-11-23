@@ -1,54 +1,35 @@
-<h1 align="center">Building software that runs the business, so teams don't have to</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/pase-oscuro.svg">
+  <img alt="2mingho, full-stack developer. I build the internal tools companies run on." src="assets/pase-claro.svg" width="100%">
+</picture>
 
-<p align="center">
-Full-stack developer focused on <b>internal platforms, data & AI automation</b> for companies.<br>
-I turn manual, repetitive operations into reliable systems: dashboards, reporting engines, AI pipelines and self-hosted tools.
-</p>
+Most of what I ship never shows up on a public profile. It runs inside companies: the platform a large team plans its week in, the report a client reads at 7 a.m., the pipeline that takes a repetitive job off someone's desk. This page is a short tour of that work.
 
----
+### Selected work
 
-## 🧩 What I build
+Client names stay out of it. I'm glad to walk through any of these on a call.
 
-| | Area | Examples of delivered work |
-|---|---|---|
-| 🏢 | **Enterprise team platforms** | A team-management platform for large teams: tasks, staffing, overtime, expenses and approvals, with roles and audit trail. |
-| 📰 | **Media intelligence & monitoring** | An AI press-monitoring engine: collects news from dozens of outlets, detects client mentions with rules + LLMs, scores sentiment and relevance, and delivers daily branded reports (email + Excel). |
-| 📊 | **BI dashboards & automated reporting** | Executive dashboards and monthly reports generated automatically from raw data for corporate and financial clients. |
-| 🤖 | **AI automation & agents** | LLM pipelines (Groq, local models, Gemini, Claude via MCP), human-in-the-loop review queues, and assistants that run scheduled tasks on company data. |
-| 🎬 | **Content operations at scale** | A self-hosted studio that turns long videos into vertical short-form content end to end — see [**StreamClipper**](https://github.com/2mingho/streamclipper). |
-| 📱 | **Mobile & desktop apps** | Native Android (Jetpack Compose), Flutter apps for quoting and field work, and web apps that feel native. |
-| 🗂️ | **Document & presentation automation** | Template-driven generation of PowerPoint decks and reports from data. |
+| | |
+|:--|:--|
+| **Team operations platform** | Planning, staffing, overtime and expenses for large teams. Roles, approvals and an audit trail, so nobody has to ask who changed what. <br><sub>Next.js · TypeScript · PostgreSQL</sub> |
+| **Press monitoring engine** | Reads 70+ news outlets every two hours, finds the articles that actually mention each client and sends a clean daily report with an Excel attached. Rules first, language models only where a rule can't decide. <br><sub>Node.js · SQLite · LLMs</sub> |
+| **Executive reporting** | Monthly reports and dashboards for corporate and financial clients, built straight from raw exports instead of copy and paste. <br><sub>Python · JavaScript</sub> |
+| **Video production server** | A home server that cuts long streams into vertical clips, captions them and publishes them. The core is open source as [StreamClipper](https://github.com/2mingho/streamclipper). <br><sub>Node.js · FFmpeg · MCP</sub> |
+| **Field quoting app** | Quotes priced and sent from the workshop floor for a custom furniture business. <br><sub>Flutter</sub> |
+| **Deck automation** | Presentation decks filled from data and templates, for teams that rebuild the same slides every month. <br><sub>Python</sub> |
 
-## 🛠️ How I work
+### How I work
 
-- **Reliability first** — systems that recover on their own, are observable, and can be updated without downtime.
-- **Private by design** — self-hosted when it matters; secrets never live in code.
-- **Measured, not guessed** — every AI feature is evaluated against real human decisions before it goes live.
-- **Built for the people who use it** — fast, mobile-friendly interfaces in Spanish and English.
+I measure before I automate. Every AI step I've shipped was checked against real human decisions first, and the numbers decide whether it goes live.
 
-## 💻 Core stack
+I build things that keep running when I'm not looking: they retry, they tell someone when they fail, and they can be updated without stopping the work.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs%20%26%20MCP-8A2BE2?style=flat-square)
+Data stays where it belongs. Secrets live outside the code, and when privacy matters the system runs on the client's own hardware.
 
-## 📌 Open source
+### Tools I reach for
 
-- [**StreamClipper**](https://github.com/2mingho/streamclipper) — self-hosted AI clipping studio (Node.js, FFmpeg, MCP).
+TypeScript, Node.js, Next.js, React, Python, Kotlin, Flutter, PostgreSQL, SQLite, Linux, FFmpeg, and language models through APIs or running locally.
 
-<p align="center"><i>Most of my work is private, built for companies. Happy to walk you through it — let's talk.</i></p>
+### Get in touch
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2mingho&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2mingho&layout=compact&hide_border=true&theme=transparent" height="150" />
-</p>
-
+[domingoimportante60@gmail.com](mailto:domingoimportante60@gmail.com)
